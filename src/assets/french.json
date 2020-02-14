@@ -1,0 +1,107 @@
+[
+    {
+      "label": "What is Hello in French?",
+      "choices": [
+        {
+          "value": "Au revoir",
+          "correct": false
+        },
+        {
+          "value": "Bonjour",
+          "correct": true
+        },
+        {
+          "value": "Tant pis",
+          "correct": false
+        },
+        {
+          "value": "Salut!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What is Goodbye in French?",
+      "choices": [
+        {
+          "value": "Au revoir",
+          "correct": true
+        },
+        {
+          "value": "Bonjour",
+          "correct": false
+        },
+        {
+          "value": "Tant pis",
+          "correct": false
+        },
+        {
+          "value": "Salut!",
+          "correct": false
+        }
+      ]
+    },
+    {
+        "label": "What is Thank You in French?",
+        "choices": [
+          {
+            "value": "De rien",
+            "correct": false
+          },
+          {
+            "value": "Desole",
+            "correct": false
+          },
+          {
+            "value": "Merci",
+            "correct": true
+          },
+          {
+            "value": "S'il vous plait!",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "label": "What is Please in french?",
+        "choices": [
+            {
+                "value": "De rien",
+                "correct": false
+              },
+              {
+                "value": "Desole",
+                "correct": false
+              },
+              {
+                "value": "Merci",
+                "correct": false
+              },
+              {
+                "value": "S'il vous plait!",
+                "correct": true
+              }
+        ]
+      },
+      {
+        "label": "What is My Name Is in french?",
+        "choices": [
+            {
+                "value": "Ca va",
+                "correct": false
+              },
+              {
+                "value": "Je viens de",
+                "correct": false
+              },
+              {
+                "value": "Je M'appelle",
+                "correct": true
+              },
+              {
+                "value": "Tres bien",
+                "correct": false
+              }
+        ]
+      }
+  ]
