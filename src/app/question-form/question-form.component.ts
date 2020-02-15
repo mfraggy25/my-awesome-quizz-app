@@ -11,7 +11,7 @@ export class QuestionFormComponent implements OnInit {
   @Input() question: Question;
   @Output() onChoiceMade = new EventEmitter<string>();
 
-  public form: FormGroup;
+  private form: FormGroup;
 
   ngOnInit() {
     this.form = new FormGroup({

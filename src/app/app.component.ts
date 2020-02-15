@@ -8,12 +8,12 @@ import { Quiz, Answers, Choice } from "./quiz.model";
   styleUrls: ["./app.component.scss"]
 })
 export class AppComponent {
-  public answers: Answers;
-  public quiz: Quiz;
-  public currentQuestionIndex: number;
-  public showResults = false;
+  private answers: Answers;
+  private quiz: Quiz;
+  private currentQuestionIndex: number;
+  private showResults = false;
 
-  constructor(public questionsService: QuestionsService) {
+  constructor(private questionsService: QuestionsService) {
     this.questionsService.getJSON("maths").subscribe(data => {
       this.quiz = new Quiz("maths", data);
       this.answers = new Answers();
