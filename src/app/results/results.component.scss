@@ -1,0 +1,33 @@
+body {
+  background-color: #ccda53;
+}
+.answer {
+  background-color: red;
+  width: auto;
+  font-size: 22px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.correct {
+  background-color: #00ff00;
+}
+
+.btn-primary {
+  background-color: rgb(184, 150, 65);
+}
+
+mat-card {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  margin: auto;
+  background-color: #000057;
+  color: white;
+  font-size: 28px;
+}

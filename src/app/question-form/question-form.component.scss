@@ -1,25 +1,29 @@
-.mat-app-background{
-    font-size: 24px;
-  }
-  
-  .btn-primary{
-    background-color: rgba(248, 130, 19, 0.877);
-  }
-  
-  body{
-    background-color: rgb(13, 4, 95);
-  }
-  
-  mat-card{
-    width: 50%;
-    margin: auto;
-    text-align: center;
-  
-  }
-  
-  .title{
-    margin: auto;
-    background-color: #000057;
-    color: white;
-    font-size: 50px;
-  }
+.mat-app-background {
+  font-size: 18px;
+}
+
+.btn-primary {
+  background-color: rgba(248, 130, 19, 0.877);
+}
+
+body {
+  background-color: rgb(13, 4, 95);
+}
+
+mat-card {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  list-style: none;
+}
+
+.title {
+  margin: auto;
+  background-color: #000057;
+  color: white;
+  font-size: 32px;
+}
+
+ul.ba {
+  list-style-type: none;
+}

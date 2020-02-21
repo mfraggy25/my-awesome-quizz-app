@@ -21,6 +21,8 @@
     "@angular/platform-browser": "~9.0.1",
     "@angular/platform-browser-dynamic": "~9.0.1",
     "@angular/router": "~9.0.1",
+    "@material/button": "^5.0.0",
+    "@material/card": "^5.0.0",
     "myapp": "0.0.0-1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
