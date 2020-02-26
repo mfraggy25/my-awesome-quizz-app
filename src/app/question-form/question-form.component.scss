@@ -1,29 +1,23 @@
-.mat-app-background {
-  font-size: 18px;
+.question-form-container {
+  max-width: 800px;
+  margin: 10px auto;
 }
 
-.btn-primary {
-  background-color: rgba(248, 130, 19, 0.877);
+mat-card-content {
+  font-size: 24px;
 }
 
-body {
-  background-color: rgb(13, 4, 95);
-}
-
-mat-card {
-  width: 50%;
-  margin: auto;
-  text-align: center;
+li {
   list-style: none;
 }
 
-.title {
-  margin: auto;
-  background-color: #000057;
-  color: white;
-  font-size: 32px;
+.choice-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 8px;
 }
 
-ul.ba {
-  list-style-type: none;
+input {
+  margin-right: 10px;
 }
