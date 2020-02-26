@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is Hello in Greek?",
+    "choices": [
+      {
+        "value": "Γεια σου (Yia sou)",
+        "correct": true
+      },
+      {
+        "value": "Ευχαριστω (Efharisto)",
+        "correct": false
+      },
+      {
+        "value": "Καλημερα (Kalimera)",
+        "correct": false
+      },
+      {
+        "value": "Καληνυχτα (Kalinihta)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Goodnight in Greek?",
+    "choices": [
+      {
+        "value": "Γεια σου (Yia sou)",
+        "correct": false
+      },
+      {
+        "value": "Ευχαριστω (Efharisto)",
+        "correct": false
+      },
+      {
+        "value": "Καλημερα (Kalimera)",
+        "correct": false
+      },
+      {
+        "value": "Καληνυχτα (Kalinihta)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is Thank You in Greek?",
+    "choices": [
+      {
+        "value": "Γεια σου (Yia sou)",
+        "correct": false
+      },
+      {
+        "value": "Ευχαριστω (Efharisto)",
+        "correct": true
+      },
+      {
+        "value": "Καλημερα (Kalimera)",
+        "correct": false
+      },
+      {
+        "value": "Καληνυχτα (Kalinihta)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is Please in Greek?",
+    "choices": [
+      {
+        "value": "Συγνωμη (Signomi)",
+        "correct": false
+      },
+      {
+        "value": "Σε παρακαλω (Se parakalo)",
+        "correct": true
+      },
+      {
+        "value": "Οχι (Ohi)",
+        "correct": false
+      },
+      {
+        "value": "Ναι (Ne)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Yes in Greek?",
+    "choices": [
+      {
+        "value": "Συγνωμη (Signomi)",
+        "correct": false
+      },
+      {
+        "value": "Σε παρακαλω (Se parakalo)",
+        "correct": false
+      },
+      {
+        "value": "Οχι (Ohi)",
+        "correct": false
+      },
+      {
+        "value": "Ναι (Ne)",
+        "correct": true
+      }
+    ]
+  }
+]

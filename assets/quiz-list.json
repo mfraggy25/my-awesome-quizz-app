@@ -1,0 +1,14 @@
+[
+  {
+    "label": "French",
+    "name": "french",
+    "description": "Questions about French language - Beginner",
+    "fileName": "french.json"
+  },
+  {
+    "label": "Greek",
+    "name": "greek",
+    "description": "Questions about Greek language - Beginner",
+    "fileName": "greek.json"
+  }
+]
