@@ -103,5 +103,27 @@
         "correct": false
       }
     ]
+  },
+
+  {
+    "label": "How do you say I Don't Know?",
+    "choices": [
+      {
+        "value": "Je ne comprend pas",
+        "correct": false
+      },
+      {
+        "value": "Je ne sais pas",
+        "correct": true
+      },
+      {
+        "value": "Pas de tout",
+        "correct": false
+      },
+      {
+        "value": "Je ne l'ai pas",
+        "correct": false
+      }
+    ]
   }
 ]

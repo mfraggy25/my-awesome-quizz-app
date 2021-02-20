@@ -103,5 +103,26 @@
         "correct": true
       }
     ]
+  },
+  {
+    "label": "How do you say I Don't Know?",
+    "choices": [
+      {
+        "value": "Δεν Ξερω (Den Xero)",
+        "correct": true
+      },
+      {
+        "value": "Δεν Μπορω (Den Boro)",
+        "correct": false
+      },
+      {
+        "value": "Δεν Το'Χω (Den To'Ho)",
+        "correct": false
+      },
+      {
+        "value": "Δεν Καταλαβαινω (Den Katalavaino)",
+        "correct": false
+      }
+    ]
   }
 ]

@@ -2,6 +2,8 @@
   <h2 class="title">{{ question.label }}</h2>
   <form [formGroup]="form">
     <mat-card-content class="form-group mat-app-background">
+      <fieldset>
+        <div class="some-class">
       <label *ngFor="let choice of question.choices">
         <input type="radio" [value]="choice" formControlName="choice" />
         <ul class="ba">
@@ -10,6 +12,8 @@
           </li>
         </ul>
       </label>
+      </div>
+    </fieldset>
     </mat-card-content>
   </form>
 </div>
